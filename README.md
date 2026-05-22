@@ -4,10 +4,10 @@
 This project primarily addresses the influence regulation (IR) problem, which shifts the paradigm from influence maximization to target-oriented spread control. First, we adopt the expected influence of multi-hop area (EIMA) method to evaluate the influence of candidate seed sets. Second, we design an improved discrete particle swarm optimization (IDPSO) algorithm integrated with EIMA to search for optimal seed sets under certain constraints. Finally, simulation experiments on hypergraphs validate the accuracy and efficiency of the proposed framework.
 
 **For more details or to use this code, please cite the following papers:**  
-[1] Adaptive dissemination process in weighted hypergraphs[J]. Expert Systems with Applications.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.eswa.2024.126340  
-[2] A state transition-based method for influence evaluation in networks[J]. Chaos, Solitons and Fractals.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.chaos.2025.117713  
+[1] Adaptive dissemination process in weighted hypergraphs[J]. Expert Systems with Applications.
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.eswa.2024.126340 -->
+[2] A state transition-based method for influence evaluation in networks[J]. Chaos, Solitons and Fractals.
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.chaos.2025.117713 -->
 [3] Influence regulation in networks and its metaheuristic solution[J]. Reliability Engineering & System Safety.
 
 
