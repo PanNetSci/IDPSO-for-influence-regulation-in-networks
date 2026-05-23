@@ -8,7 +8,8 @@ This project primarily addresses the influence regulation (IR) problem, which sh
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.eswa.2024.126340  
 [2] A state transition-based method for influence evaluation in networks[J]. Chaos, Solitons and Fractals.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.chaos.2025.117713  
-[3] Influence regulation in networks and its metaheuristic solution[J]. Reliability Engineering & System Safety.
+[3] Influence regulation in networks and its metaheuristic solution[J]. Reliability Engineering & System Safety.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.ress.2026.112918
 
 
 ## Contact
